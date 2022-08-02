@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container should works 1`] = `
+.c0 {
+  width: 1000px;
+  max-width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+<div
+  className="c0"
+>
+  Reza
+</div>
+`;
