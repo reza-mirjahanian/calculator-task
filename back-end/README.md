@@ -14,8 +14,6 @@ I don't have an iPhone, but I hope I've guessed all the operators correctly.
 
 
 
-#### Assumptions
-- ✅ 
 
 
 #### Todo
